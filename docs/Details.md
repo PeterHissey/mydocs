@@ -1,0 +1,3 @@
+Running this command will generate the static website. Rather than outputting the files in the `site` folder as we saw in the previous post, the website will be saved in a new branch named `gh-pages` and a push of this branch is done towards GitHub. If you go to the _Actions_ tab on the GitHub repository, you will see GitHub automatically picking up the new `gh-pages` branch and deploying it to GitHub pages:
+
+![[Pasted image 20240611131606.png]]
